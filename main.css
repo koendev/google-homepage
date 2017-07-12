@@ -16,7 +16,7 @@
 }
 
 .nav a {
-	font: arial,sans-serif;
+	font-family: arial;
 	opacity: .75;
 	padding: 10px;
 	text-decoration: none;
@@ -36,7 +36,7 @@
 }
 
 .footer a {
-	font: arial,sans-serif;
+	font-family: arial;
 	text-decoration: none;
 	color: #666;
 	padding-left: 30px;
@@ -64,7 +64,8 @@
 	width: 150px;
 	height: 40px;
 	font-size: 13px;
-	color: #757575 bold;
+	color: #757575;
+	font-weight: bold;
 	background-color: #F2F2F2;
 	border: none;
 }
